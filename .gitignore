@@ -1,0 +1,12 @@
+# Node.js
+node_modules/
+npm-debug.log*
+dist/
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+
+# System
+.DS_Store
+Thumbs.db

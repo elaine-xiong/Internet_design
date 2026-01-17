@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 800 600"
+>
+
+  <!-- 背景 -->
+  <rect x="0" y="0" width="800" height="600" fill="#f9f9f9" />
+
+  <!-- ================== 其他省份（简化示意，存在但不交互） ================== -->
+  <path d="M100 100 L300 100 L300 250 L100 250 Z" fill="#e0e0e0" stroke="#999"/>
+  <path d="M300 100 L500 100 L500 250 L300 250 Z" fill="#e0e0e0" stroke="#999"/>
+  <path d="M100 250 L300 250 L300 400 L100 400 Z" fill="#e0e0e0" stroke="#999"/>
+  <path d="M300 250 L500 250 L500 400 L300 400 Z" fill="#e0e0e0" stroke="#999"/>
+
+  <!-- ================== 江苏 ================== -->
+  <path
+    id="jiangsu"
+    d="M520 200 L600 200 L600 260 L520 260 Z"
+    fill="#dcdcdc"
+    stroke="#333"
+  />
+
+  <!-- ================== 上海 ================== -->
+  <path
+    id="shanghai"
+    d="M610 230 L640 230 L640 260 L610 260 Z"
+    fill="#dcdcdc"
+    stroke="#333"
+  />
+
+  <!-- ================== 浙江 ================== -->
+  <path
+    id="zhejiang"
+    d="M540 270 L620 270 L620 340 L540 340 Z"
+    fill="#dcdcdc"
+    stroke="#333"
+  />
+
+  <!-- 文字标注（可选，加分好看） -->
+  <text x="545" y="235" font-size="12">江苏</text>
+  <text x="612" y="225" font-size="12">上海</text>
+  <text x="545" y="265" font-size="12">浙江</text>
+
+</svg>
