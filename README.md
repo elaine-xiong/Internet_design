@@ -7,7 +7,7 @@
 
 	前端	：Vue 3 + Vite + HTML/CSS/JavaScript
 	后端	：Node.js + Express
-	数据库：	MySQL
+	数据库  : MySQL
 	通信方式：	RESTful API（JSON）
 	
 三、交互流程及效果
