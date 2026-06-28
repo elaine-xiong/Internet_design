@@ -24,11 +24,11 @@
 四、数据库设计
 
 	只设置了一个表“diary”：
-			字段名	    类型                 说明
+			字段名	        类型                 说明
 			id	            BIGINT	            日记唯一标识
-			province	VARCHAR(20)	所属省份
-			content	TEXT	            日记内容
-			time	        VARCHAR(50)	记录时间
+			province	    VARCHAR(20)	        所属省份
+			content	TEXT	                    日记内容
+			time	        VARCHAR(50)	        记录时间
 
 
 ## data_analyse
